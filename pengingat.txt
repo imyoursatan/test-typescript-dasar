@@ -1,0 +1,32 @@
+dasar-dasar TypeScript! 🚀
+
+String:
+- Tipe data string buat ngejelasin teks atau deretan huruf.
+- Misalnya: let nama: string = "Teguh";
+- di TypeScript, teks bisa dibungkus pake tanda kutip satu ('') atau dua ("").
+
+Number:
+- Tipe data number buat ngasih tau angka, bisa yang bulat atau pecahan.
+- Misalnya: let umur: number = 30;
+
+Boolean:
+- Tipe data boolean buat ngejelasin nilai kebenaran (true atau false).
+- Misalnya: let aktif: boolean = true;
+
+Array:
+- Tipe data array buat nyimpen kumpulan nilai yang punya jenis data yang sama.
+- Misalnya: let angka: number[] = [1, 2, 3, 4, 5];
+
+Any:
+- Tipe data any buat bilang kalo variabel bisa punya jenis data apa aja.
+- Misalnya: let data: any = "Halo";
+
+Void:
+- Tipe data void buat nunjukin kalo sebuah fungsi gak ngembaliin nilai apa-apa.
+- Misalnya: function tulisPesan(): void { console.log("Halo"); }
+
+Null dan Undefined:
+- Tipe data null dan undefined buat nunjukin nilai yang kosong atau gak ada.
+- Misalnya: let nilai: null = null; let gakAda: undefined = undefined;
+
+lanjut entar buat baca dokumentasi!!!!!!!!!
